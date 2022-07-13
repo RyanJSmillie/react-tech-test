@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nasa-logo {
+    height: 250px;
+    width: 500px;
+}
+
+.searchInput {
+    width: 250px;
+    height: 25px;
+}
